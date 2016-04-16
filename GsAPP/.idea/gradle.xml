@@ -10,12 +10,16 @@
           <set>
             <option value="$PROJECT_DIR$/../../../../xamppfiles/htdocs/gs_academy/gs_android/GsAPP" />
             <option value="$PROJECT_DIR$/../../../../xamppfiles/htdocs/gs_academy/gs_android/GsAPP/app" />
+            <option value="$PROJECT_DIR$/../../../../xamppfiles/htdocs/gs_academy/gs_android/GsAPP/modules" />
+            <option value="$PROJECT_DIR$/../../../../xamppfiles/htdocs/gs_academy/gs_android/GsAPP/modules/volley" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$/../../../../xamppfiles/htdocs/gs_academy/gs_android/GsAPP" />
             <option value="$PROJECT_DIR$/../../../../xamppfiles/htdocs/gs_academy/gs_android/GsAPP/app" />
+            <option value="$PROJECT_DIR$/../../../../xamppfiles/htdocs/gs_academy/gs_android/GsAPP/modules" />
+            <option value="$PROJECT_DIR$/../../../../xamppfiles/htdocs/gs_academy/gs_android/GsAPP/modules/volley" />
           </set>
         </option>
       </GradleProjectSettings>
